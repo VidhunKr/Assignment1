@@ -1,5 +1,5 @@
 # Q1. What is the use of
-## Ans: The declaration specifies that the document is written in HTML5. The declaration is a an instruction to the web browser about what version of html the page is written in.
+## Ans: The declaration specifies that the document is written in HTML5. The declaration is a an instruction to the web browser about what version of html the page is written in .
 
 # Q2. Explain semantic tags in html? And Why do we need it?
 ## Ans:Semantic html tags are tags that define the meaning of the content they contain.
